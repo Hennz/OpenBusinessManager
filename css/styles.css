@@ -1,0 +1,49 @@
+/* App code */
+
+.heading-l
+{
+  font-size: 4em;
+}
+
+.heading-m
+{
+  font-size: 3em;
+}
+
+.heading-s
+{
+  font-size: 1em;
+}
+
+.heading-s, .heading-m, .heading-l
+{
+  color: white;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+body
+{
+  background: #fafafa;
+}
+
+.wrapper
+{
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  background: white;
+  font-family: "Open Sans", sans-serif;
+}
+
+.container-app-padding
+{
+  padding: 32px;
+}
+
+.header-main
+{
+  background: #2196f3;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
