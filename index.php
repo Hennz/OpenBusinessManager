@@ -15,11 +15,11 @@
   <body>
     <div class="wrapper">
       <header class="header-main">
-        <h2 class="heading-m">Business Manager</h2>
+        <h3 class="heading-s">Business Manager</h3>
       </header>
 
       <div class="container-app-padding">
-        
+        <h3 class="heading-s">Welcome back!</h3>
       </div>
     </div>
   </body>
