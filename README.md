@@ -1,4 +1,4 @@
-# BusinessManager
+# OpenBusinessManager
 
 ### About
 Open Business Manager is open source software designed to help businesses manage day to day operations.  This software includes the ability to manage clients, inventory, services, and invoices.
