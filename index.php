@@ -1,3 +1,20 @@
+<!--
+OpenBusinessManager is open source software designed to help your business manage your clients, inventory, services, budget, and invoices in a simple, user friendly way.
+Copyright (C) 2017  Jared York
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -45,6 +62,7 @@
             {
               ?>
               <h3 class="heading-s">Manage Budget</h3>
+              <h2 class="heading-m">Budget Manager</h2>
               <form action="php/budget.php?action=update-budget">
                 <fieldset>
                   <legend>Update budget</legend>
